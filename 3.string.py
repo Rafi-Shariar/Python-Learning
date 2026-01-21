@@ -18,3 +18,8 @@ print(str2.replace('i','X'))
 print(str2.find("s"))
 print(str3.count("i"))
 
+# f string
+price = 59
+txt = f"The price is {price} $"
+print(price)
+
